@@ -35,7 +35,7 @@ git clone https://github.com/rifqi2320/Tucil-2
 3. Install your python and its libraries to use the program
    1. `python -m ensurepip --upgrade` to install pip
    2. `pip install pandas scikit-learn numpy` to install the libraries
-4. Run Command `jupyter notebook`![enter image description here](https://media.discordapp.net/attachments/893484082275708980/946816144088645722/unknown.png)
+4. Run Command `jupyter notebook`
 5. On jupyter notebook, navigate into `main.ipynb`
 6. Run all cell to show all visualization
 
